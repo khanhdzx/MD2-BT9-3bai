@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="933fd05a-2bae-40c0-932d-ef9ed872e6bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai1/DayMouthYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai1/DayMouthYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2/TriangleClassifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled17.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FmdyHTi8zkf87eP4DisZPLfNlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "K:/Tai Lieu Hoc Rikkei Academy/Module 2/untitled18"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DayMouthYearTest">
+    <configuration name="DayMouthYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Bai1" />
+      <option name="MAIN_CLASS_NAME" value="Bai1.DayMouthYearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayMouthYearTest.testDay31Month12Year2019" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Bai1" />
+      <option name="MAIN_CLASS_NAME" value="Bai1.DayMouthYearTest" />
+      <option name="METHOD_NAME" value="testDay31Month12Year2019" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleClassifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Bai2" />
+      <option name="MAIN_CLASS_NAME" value="Bai2.TriangleClassifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DayMouthYearTest" />
+        <item itemvalue="JUnit.TriangleClassifierTest" />
+        <item itemvalue="JUnit.DayMouthYearTest.testDay31Month12Year2019" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="933fd05a-2bae-40c0-932d-ef9ed872e6bb" name="Changes" comment="" />
+      <created>1665101450917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665101450917</updated>
+      <workItem from="1665101452594" duration="485000" />
+      <workItem from="1665104456298" duration="18000" />
+      <workItem from="1665105226153" duration="2497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
